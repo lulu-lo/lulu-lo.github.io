@@ -7,5 +7,5 @@
 ![](https://github.com/lulu-lo/lulu-lo.github.io/blob/main/%E5%B1%B1.webp)
 ![](https://github.com/lulu-lo/lulu-lo.github.io/blob/main/%E6%B8%B8%E6%88%8F.webp)
 ![](https://github.com/lulu-lo/lulu-lo.github.io/blob/main/%E8%AE%BE%E7%BD%AE.png)
-[](#test.html)
-[](#index.html)
+[index.html](#test.html)
+[test.html](#index.html)
